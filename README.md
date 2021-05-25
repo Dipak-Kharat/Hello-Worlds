@@ -1,2 +1,2 @@
-# Hello-Worlds
-I have just started learning Git & as of now whatever explanation given by Gi guid is look good
+#this directory is for scala programs:
+1)I will be writing algoithms & spark progrms here
